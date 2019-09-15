@@ -1,12 +1,11 @@
 def unsafe?(speed)
   speed < 60
-end
-
-def unsafe?(speed)
+  end
   speed < 40
+  end
 end
 
-def
+
 
 
 
