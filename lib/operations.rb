@@ -3,7 +3,8 @@ def unsafe?(speed)
 end
 
 def unsafe?(speed)
-  speed > 
+  speed > 40
+end
 
 
 
